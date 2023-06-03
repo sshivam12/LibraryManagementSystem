@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Montserrat:wght@100&family=Sacramento&family=Source+Code+Pro:ital@1&display=swap');
+
+
+.mrg{
+    margin-left: 50px;
+  }
+  
+.text{
+    color:  #212529; 
+    font-family: "sacramento";
+  }
+
+.para{
+    font-family: "Montserrat";
+    color:  #212529; 
+    font-weight: bold;
+}
+
+.page-dark{
+    background-color: #9BA4B5;
+}
