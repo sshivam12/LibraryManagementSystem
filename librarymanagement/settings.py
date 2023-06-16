@@ -26,7 +26,11 @@ SECRET_KEY = 'k(6-_4sgig$sbrccr2*0=7s)bklpiywi#_121l)s(f8)dq^^wv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.render.com']
+ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
+    'librarymanagementsystem-1419.onrender.com',
+]
 
 
 # Application definition
